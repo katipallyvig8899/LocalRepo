@@ -1,1 +1,1 @@
-need to chnage some features and do the deployment in the aws 
+created the dataset but need to have some knowledge on doamin and need to do create the model by the sunday 
